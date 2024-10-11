@@ -1,7 +1,7 @@
 
 # Neural Network Implementation from Scratch
 
-This repository contains a Python implementation of a feedforward Artificial Neural Network (ANN) built from scratch,   implemented for handwritten digit recognition. The implementation includes customizable layers, various activation functions, regularization options, and different optimization techniques.
+This repository contains a Python implementation of a Artificial Neural Network (ANN) built from scratch,   implemented for handwritten digit recognition. The implementation includes customizable layers, various activation functions, regularization options, and different optimization techniques.
 
 ## Table of Contents
 
